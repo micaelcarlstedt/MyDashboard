@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="8434D900-5566-4C4F-AEF2-F29D3E347850" ModuleId="MyDashboard.App" />
+  <Module PersistentId="B1CB90E5-DFFD-40BC-961B-A2C6BA46685A" ModuleId="MyDashboard.View" />
+</Modules>
